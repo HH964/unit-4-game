@@ -1,0 +1,51 @@
+body{
+    background-image: url(../images/round.png);
+}
+strong{
+    font-size: 30px;
+    padding: 1%;
+    background-color: orange;
+    color: white;
+}
+h1{
+    padding-top: 1%;
+    margin: .5%;
+}
+.text-instructions{
+    padding: .5%;
+    margin: .5%;
+    color: green;
+    background-color: tan;
+    display: inline-block;
+    border: 1px;
+}
+#random-number-generated{
+    border: 3px;
+    background-color: lightgreen;
+    display: inline-block;
+    padding: .5%;
+    margin: .5%;
+}
+.row{
+    columns: 2;
+    margin-left: .3%;
+}
+#winOrLoss{
+    border: 3px;
+    background-color: lightblue;
+    display: inline-block;
+    padding: .5%;
+    margin: .5%;
+}
+.button{
+    /* display: inline-block; */
+    margin: .5%;
+}
+#score-counter{
+    color: white;
+    border: 3px;
+    background-color: lightseagreen;
+    display: inline-block;
+    padding: .5%;
+    margin: .5%;
+}
